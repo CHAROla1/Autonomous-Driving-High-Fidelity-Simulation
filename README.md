@@ -40,7 +40,7 @@ The Autonomous Driving High-Fiedelity Simulation project provides a realistic si
    cd ~/CitySample/Content
 2. Clone the repository:
    ```sh
-   git clone https://github.com/CHAROla1/AutonomousDrivingHighFiedelitySimulation.git
+   git clone https://github.com/CHAROla1/Autonomous-Driving-High-Fiedelity-Simulation.git
 3. Navigate to the project directory:
    ```sh
    cd Autonomous-Driving-High-Fiedelity-Simulation
