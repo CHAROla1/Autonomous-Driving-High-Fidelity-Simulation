@@ -44,8 +44,9 @@ The Autonomous Driving High-Fiedelity Simulation project provides a realistic si
 3. Navigate to the project directory:
    ```sh
    cd Autonomous-Driving-High-Fiedelity-Simulation
-4. Open the City Sample project and build it.
-5. Import Configs/ZoneGraphConfig.ini to your project setting (Project Settings -> Engine -> Zone Graph -> Import).
+4. Unzip the `Plugins` file, paste and cover its contents to your city sample's plugins folder.
+5. Open the City Sample project and build it.
+6. Import `Configs/ZoneGraphConfig.ini` to your project setting (Project Settings -> Engine -> Zone Graph -> Import).
 
 ## Usage
 ### Running the Simulator
