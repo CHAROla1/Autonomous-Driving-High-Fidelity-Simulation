@@ -1,4 +1,4 @@
-# Autonomous Driving High-Fiedelity Simulation
+# Autonomous Driving High-Fidelity Simulation
 
 Welcome to the Autonomous Driving High-Fiedelity Simulation project! This project aims to simulate the behavior of autonomous vehicles in a controlled environment. The simulation can be used for testing and developing autonomous driving algorithms, visualizing vehicle behavior, and educational purposes.
 
@@ -40,10 +40,10 @@ The Autonomous Driving High-Fiedelity Simulation project provides a realistic si
    cd ~/CitySample/Content
 2. Clone the repository:
    ```sh
-   git clone https://github.com/CHAROla1/Autonomous-Driving-High-Fiedelity-Simulation.git
+   git clone https://github.com/CHAROla1/Autonomous-Driving-High-Fidelity-Simulation.git
 3. Navigate to the project directory:
    ```sh
-   cd Autonomous-Driving-High-Fiedelity-Simulation
+   cd Autonomous-Driving-High-Fidelity-Simulation
 4. Open the City Sample project and build it.
 5. Import Configs/ZoneGraphConfig.ini to your project setting (Project Settings -> Engine -> Zone Graph -> Import).
 
